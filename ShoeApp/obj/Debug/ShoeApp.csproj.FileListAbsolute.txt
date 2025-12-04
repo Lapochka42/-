@@ -1,0 +1,39 @@
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\ShoeApp.csproj.AssemblyReference.cache
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\MozaikaApp.exe.config
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\ShoeApp.LoginForm.resources
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\ShoeApp.MainForm.resources
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\MozaikaApp.Properties.Resources.resources
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\ShoeApp.UserForm.resources
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\ShoeApp.csproj.GenerateResource.cache
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\ShoeApp.csproj.CoreCompileInputs.cache
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\MozaikaApp.exe
+H:\Пробный демоэкзамен\ShoeApp\obj\Debug\MozaikaApp.pdb
+H:\Пробный демоэкзамен\ShoeApp\bin\Debug\MozaikaApp.exe.config
+H:\Пробный демоэкзамен\ShoeApp\bin\Debug\MozaikaApp.exe
+H:\Пробный демоэкзамен\ShoeApp\bin\Debug\MozaikaApp.pdb
+C:\Users\222909071093-27\Desktop\ShoeApp\bin\Debug\MozaikaApp.exe.config
+C:\Users\222909071093-27\Desktop\ShoeApp\bin\Debug\MozaikaApp.exe
+C:\Users\222909071093-27\Desktop\ShoeApp\bin\Debug\MozaikaApp.pdb
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\ShoeApp.csproj.AssemblyReference.cache
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\MozaikaApp.exe.config
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\ShoeApp.LoginForm.resources
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\ShoeApp.MainForm.resources
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\MozaikaApp.Properties.Resources.resources
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\ShoeApp.UserForm.resources
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\ShoeApp.csproj.GenerateResource.cache
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\ShoeApp.csproj.CoreCompileInputs.cache
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\MozaikaApp.exe
+C:\Users\222909071093-27\Desktop\ShoeApp\obj\Debug\MozaikaApp.pdb
+H:\УП\ПДЭ\ShoeApp\bin\Debug\MozaikaApp.exe.config
+H:\УП\ПДЭ\ShoeApp\bin\Debug\MozaikaApp.exe
+H:\УП\ПДЭ\ShoeApp\bin\Debug\MozaikaApp.pdb
+H:\УП\ПДЭ\ShoeApp\obj\Debug\ShoeApp.csproj.AssemblyReference.cache
+H:\УП\ПДЭ\ShoeApp\obj\Debug\MozaikaApp.exe.config
+H:\УП\ПДЭ\ShoeApp\obj\Debug\ShoeApp.LoginForm.resources
+H:\УП\ПДЭ\ShoeApp\obj\Debug\ShoeApp.MainForm.resources
+H:\УП\ПДЭ\ShoeApp\obj\Debug\MozaikaApp.Properties.Resources.resources
+H:\УП\ПДЭ\ShoeApp\obj\Debug\ShoeApp.UserForm.resources
+H:\УП\ПДЭ\ShoeApp\obj\Debug\ShoeApp.csproj.GenerateResource.cache
+H:\УП\ПДЭ\ShoeApp\obj\Debug\ShoeApp.csproj.CoreCompileInputs.cache
+H:\УП\ПДЭ\ShoeApp\obj\Debug\MozaikaApp.exe
+H:\УП\ПДЭ\ShoeApp\obj\Debug\MozaikaApp.pdb
